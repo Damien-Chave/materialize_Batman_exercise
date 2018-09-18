@@ -1,0 +1,17 @@
+@font-face {
+	font-family: Courier_Prime;
+	src: url(Styles/Courier_Prime.ttf);
+}
+
+.batback {
+    background-color: #90A4AE;
+}
+
+.batfont {
+    font-family: Courier_Prime;
+}
+
+.batpadd {
+	padding-left: 0.75rem;
+	padding-right: 0.75rem;
+}
